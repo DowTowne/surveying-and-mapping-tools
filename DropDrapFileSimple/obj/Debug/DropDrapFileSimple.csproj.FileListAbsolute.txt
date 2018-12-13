@@ -1,0 +1,8 @@
+C:\Users\mazev\Desktop\DropDrapFileSimple\bin\Debug\DropDrapFileSimple.exe
+C:\Users\mazev\Desktop\DropDrapFileSimple\bin\Debug\DropDrapFileSimple.pdb
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.csprojResolveAssemblyReference.cache
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.FormMain.resources
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.Properties.Resources.resources
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.csproj.GenerateResource.Cache
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.exe
+C:\Users\mazev\Desktop\DropDrapFileSimple\obj\Debug\DropDrapFileSimple.pdb
